@@ -2,7 +2,7 @@
 
 But i have learned som much in this project, after learning Typescript this is my first Project.
 
-### [Live Site](https://youtube-clone-youtube.netlify.app/)
+### [Live Site](https://hanging-man-game.netlify.app/)
 
 ![youtube clone](https://i.postimg.cc/j5fqYVkL/Screenshot-2023-03-31-170129.png)
 
