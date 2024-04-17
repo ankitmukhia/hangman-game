@@ -9,3 +9,5 @@ But i have learned som much in this project, after learning Typescript this is m
 
 Setup: 
 - run ```npm i && npm run dev ``` run it in your computer.
+
+- changes for test
